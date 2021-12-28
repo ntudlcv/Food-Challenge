@@ -10,7 +10,7 @@
 # Usage
 To start working on this final project, you should clone this repository into your local machine by using the following command:
 
-    git clone https://github.com/DLCV-Fall-2020/food-classification-<team_name>.git
+    git clone https://github.com/DLCV-Fall-2021/final-project-challenge-3-<team_name>.git
 Note that you should replace `<team_name>` with your own team name.
 
 For more details, please click [this link](https://drive.google.com/drive/folders/13PQuQv4dllmdlA7lJNiLDiZ7gOxge2oJ?usp=sharing) to view the slides of Final Project - Food image classification. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
